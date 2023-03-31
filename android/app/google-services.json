@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403242152048",
+    "project_id": "spice-7ac6c",
+    "storage_bucket": "spice-7ac6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403242152048:android:b250ace7fde44e1893c4b5",
+        "android_client_info": {
+          "package_name": "com.example.spice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403242152048-gqpklm2k2q0qr8ur90dvbcgl5jnmo38p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQBvhPoVXMOuvVgtRiN9JxFm9bceNR4hA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403242152048-gqpklm2k2q0qr8ur90dvbcgl5jnmo38p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
